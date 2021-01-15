@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger Hilt</string>
+    <string name="car">My car is Malibu 2.4L</string>
+</resources>

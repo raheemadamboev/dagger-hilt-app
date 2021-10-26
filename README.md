@@ -7,7 +7,7 @@ This is just plain app to show how to inject dependencies with the help of Dagge
 
 <img src="https://i.imgur.com/5OuwtVB.png" alt="Italian Trulli" width="200" height="200">
 
-**Key points**
+**Tech stack:**
 - Dagger Hilt
 - Object lifetime, singletons
 - Injecting same type objects with @Named
